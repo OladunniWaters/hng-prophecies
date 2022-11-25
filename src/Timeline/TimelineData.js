@@ -10,7 +10,7 @@ const TimelineData = [
   },
    {
     id:2,
-    month:"January Prophecies",
+    month:"Febuary Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -19,7 +19,7 @@ const TimelineData = [
   },
    {
     id:3,
-    month:"January Prophecies",
+    month:"March Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -28,7 +28,7 @@ const TimelineData = [
   },
    {
     id:4,
-    month:"January Prophecies",
+    month:"April Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -37,7 +37,7 @@ const TimelineData = [
   },
    {
     id:5,
-    month:"January Prophecies",
+    month:"May Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -46,7 +46,7 @@ const TimelineData = [
   },
    {
     id:6,
-    month:"January Prophecies",
+    month:"June Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -55,7 +55,7 @@ const TimelineData = [
   },
    {
     id:7,
-    month:"January Prophecies",
+    month:"July Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
@@ -64,13 +64,23 @@ const TimelineData = [
   },
    {
     id:8,
-    month:"January Prophecies",
+    month:"August Prophecies",
+    link: {
+            url:
+                '/JanuaryProphecy',
+            text: 'Click Here'
+        }
+  },
+  {
+    id:9,
+    month:"September Prophecies",
     link: {
             url:
                 '/JanuaryProphecy',
             text: 'Click Here'
         }
   }
+  
 ]
 
 export default TimelineData;
