@@ -5,7 +5,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/JanuaryProphecy',
+                '/januaryProphecy',
             text: 'Click Here'
         }
   },
@@ -15,7 +15,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/FebruaryProphecy',
+                '/februaryProphecy',
             text: 'Click Here'
         }
   },
@@ -25,7 +25,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/MarchProphecy',
+                '/marchProphecy',
             text: 'Click Here'
         }
   },
@@ -35,7 +35,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/AprilProphecy',
+                '/aprilProphecy',
             text: 'Click Here'
         }
   },
@@ -45,7 +45,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/MayProphecy',
+                '/mayProphecy',
             text: 'Click Here'
         }
   },
@@ -55,7 +55,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/JuneProphecy',
+                '/juneProphecy',
             text: 'Click Here'
         }
   },
@@ -65,7 +65,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/JulyProphecy',
+                '/julyProphecy',
             text: 'Click Here'
         }
   },
@@ -75,7 +75,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/AugustProphecy',
+                '/augustProphecy',
             text: 'Click Here'
         }
   },
@@ -85,7 +85,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/SeptemberProphecy',
+                '/septemberProphecy',
             text: 'Click Here'
         }
   },
@@ -95,7 +95,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/OctoberProphecy',
+                '/octoberProphecy',
             text: 'Click Here'
         }
   },
@@ -105,7 +105,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/NovemberProphecy',
+                '/novemberProphecy',
             text: 'Click Here'
         }
   },
@@ -115,7 +115,7 @@ const TimelineData = [
     message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
     link: {
             url:
-                '/DecemberProphecy',
+                '/decemberProphecy',
             text: 'Click Here'
         }
   }
