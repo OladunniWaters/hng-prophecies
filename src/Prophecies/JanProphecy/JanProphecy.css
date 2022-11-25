@@ -18,7 +18,7 @@
   gap: 1rem;
 }
 
-@media (min-width: 601px) {
+@media (min-width: 602px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 
