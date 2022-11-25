@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
 .timeline-container {
     display: flex;
     flex-direction: column;
@@ -12,4 +14,11 @@
     left: calc(50% - 2px);
     width: 8px;
     height: 100%;
+}
+
+.TimelineHeader {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }

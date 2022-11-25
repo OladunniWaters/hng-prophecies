@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
 .timeline-item {
     display: flex;
     justify-content: flex-end;
@@ -87,6 +90,11 @@
     text-transform: uppercase;
     font-weight: bold;
     color: #20285E;
+}
+
+.message {
+  font-family: "Poppins", "Sans-Serif";
+  margin-bottom: 10px;
 }
 
 .timeline-item-content a {

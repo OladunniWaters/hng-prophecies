@@ -1,12 +1,12 @@
 import ProphecyCard from "../../ProphecyCard/ProphecyCard"
-import JanData from "../../PropheciesData/JanData"
-import './JanProphecy.css';
+import SeptData from "../../PropheciesData/SeptData"
+import './SeptProphecy.css';
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
 
-export default function JanProphecy() {
+export default function SeptProphecy() {
     useEffect(() => {
     AOS.init();
     AOS.refresh();
@@ -15,13 +15,13 @@ export default function JanProphecy() {
   
   
   return (
-    <div className="JanProphecy">
+    <div className="SeptProphecy">
          <div>
-            <h1 className="JanHeader">JANUARY PROPHECIES</h1>
+            <h1 className="SeptHeader">SEPTEMBER PROPHECIES</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">
-               {JanData.map((prophecies)=>{
+               {SeptData.map((prophecies)=>{
                  return (
                   <ProphecyCard
                      prophecies={prophecies}

@@ -7,7 +7,7 @@ export default function Timeline() {
   return (
       <div className="Timeline">
          <div>
-            <h1 className="TimelineHeader">PROPHECIES</h1>
+            <h1 className="TimelineHeader">2022 PROPHECIES BY MEN OF GOD</h1>
          </div>
          
          <div className="timeline-container">
