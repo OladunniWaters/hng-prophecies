@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.ProphecyCard {
+  width: 300px;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  background: #fff;
+-webkit-box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
+-moz-box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
+box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
+}
+
+.CardInfo {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: flex-end;
+}
+
+.quoteIcon {
+  color: #203580;
+  font-size: 20px;
+}
+
+.pastorProphecy  {
+  font-family: 'Poppins', sans-serif;
+  color: #1A1A41;
+}
+
+.span {
+   background: #1A1A41;
+   width: 300px;
+   height: 2px;
+   margin-top: 20px;
+}
+
+.pastorImage {
+  width: 40px;
+  height: 40px;
+  margin-top: 8px;
+  border-radius: 50%;
+  border: 1px dotted #1A1A41;
+}
+
+.pastorName {
+  font-size: 15px;
+  margin-left: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: #1A1A41;
+}
