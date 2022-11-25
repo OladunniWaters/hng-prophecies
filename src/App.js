@@ -20,18 +20,18 @@ function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Timeline/>} />
-        <Route path="/JanuaryProphecy" element={<JanProphecy/>} />
-        <Route path="/AprilProphecy" element={<AprProphecy/>} />
-        <Route path="/AugustProphecy" element={<AugProphecy/>} />
-        <Route path="/DecemberProphecy" element={<DecProphecy/>} />
-        <Route path="/FebruaryProphecy" element={<FebProphecy/>} />
-        <Route path="/JulyProphecy" element={<JulyProphecy/>} />
-        <Route path="/JuneProphecy" element={<JuneProphecy/>} />
-        <Route path="/MarchProphecy" element={<MarchProphecy/>} />
-        <Route path="/MayProphecy" element={<MayProphecy/>} />
-        <Route path="/NovemberProphecy" element={<NovProphecy/>} />
-        <Route path="/OctoberProphecy" element={<OctProphecy/>} />
-        <Route path="/SeptemberProphecy" element={<SeptProphecy/>} />
+        <Route path="/januaryProphecy" element={<JanProphecy/>} />
+        <Route path="/aprilProphecy" element={<AprProphecy/>} />
+        <Route path="/augustProphecy" element={<AugProphecy/>} />
+        <Route path="/decemberProphecy" element={<DecProphecy/>} />
+        <Route path="/februaryProphecy" element={<FebProphecy/>} />
+        <Route path="/julyProphecy" element={<JulyProphecy/>} />
+        <Route path="/juneProphecy" element={<JuneProphecy/>} />
+        <Route path="/marchProphecy" element={<MarchProphecy/>} />
+        <Route path="/mayProphecy" element={<MayProphecy/>} />
+        <Route path="/novemberProphecy" element={<NovProphecy/>} />
+        <Route path="/octoberProphecy" element={<OctProphecy/>} />
+        <Route path="/septemberProphecy" element={<SeptProphecy/>} />
       </Routes>
     </HashRouter>  
     </div>
