@@ -46,7 +46,7 @@ image:"https://dailypost.ng/wp-content/uploads/2020/12/Primate-Ayodele-odinceblo
     id:40,
     pastor:"Pastor Emmanuel Makandiwa",
     prophecy: "2022 - Year of excellence.",
-    image:https:"//encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6dnSu7yaWBL23xXnZGb19yyJzc4341Cb1g&usqp=CAU",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6dnSu7yaWBL23xXnZGb19yyJzc4341Cb1g&usqp=CAU",
   },
   ]
   export default MayData

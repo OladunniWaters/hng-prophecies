@@ -1,7 +1,7 @@
 import './TimelineCard.css';
 
 export default function TimelineCard({ Monthprophecy }) {
-  const { id, link, month} = Monthprophecy
+  const { id, link, month, message} = Monthprophecy
   
   return (
     
@@ -11,6 +11,7 @@ export default function TimelineCard({ Monthprophecy }) {
                 {}
             </span>
             <p>{month}</p>
+            <span className="message">{message}</span>
             {link && (
                 <a 
                     href={link.url}

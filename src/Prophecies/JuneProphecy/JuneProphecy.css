@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
-.JanProphecy {
+.JuneProphecy {
   margin: auto;
   padding: 10px 10px;
   background: #F1F1FB;
 }
 
-.JanHeader {
+.JuneHeader {
   text-align: center;
   margin-bottom: 50px;
   color: #203580;
@@ -19,7 +19,7 @@
   gap: 1rem;
 }
 
-@media (min-width: 602px) {
+@media (min-width: 600px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 
