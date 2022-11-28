@@ -16,7 +16,7 @@ const MarchData = [
     id:3,
     pastor:"Prophet (Dr.) MKO Tibetan ",
     prophecy:"There will be trouble in the household of Ooni of Ife, Oba Enitan Adeyeye Ogunwusi in Year 2022",
-    image:"",
+    image:"https://ichef.bbci.co.uk/news/800/cpsprodpb/BB03/production/_122557874_270122328_7071084972933762_7606511570835496303_n.jpg.webp",
   },
   {
     id:4,

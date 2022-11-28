@@ -17,7 +17,7 @@ export default function AugProphecy() {
   return (
     <div className="AugProphecy">
          <div>
-            <h1 className="AugHeader">AUGUST PROPHECIES</h1>
+            <h1 className="AugHeader">AUGUST MESSAGES</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

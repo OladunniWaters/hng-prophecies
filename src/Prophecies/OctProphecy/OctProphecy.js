@@ -17,7 +17,7 @@ export default function OctProphecy() {
   return (
     <div className="OctProphecy">
          <div>
-            <h1 className="OctHeader">OCTOBER PROPHECIES</h1>
+            <h1 className="OctHeader">OCTOBER MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

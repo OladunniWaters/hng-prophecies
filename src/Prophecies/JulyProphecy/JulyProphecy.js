@@ -17,7 +17,7 @@ export default function JulyProphecy() {
   return (
     <div className="JulyProphecy">
          <div>
-            <h1 className="JulyHeader">JULY PROPHECIES</h1>
+            <h1 className="JulyHeader">JULY MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

@@ -8,7 +8,7 @@
 }
 
 .timeline-container::after {
-    background-color: #BBA3FC;
+    background-color:#7391C8;
     content: '';
     position: absolute;
     left: calc(50% - 2px);

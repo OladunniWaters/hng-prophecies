@@ -17,7 +17,7 @@ export default function SeptProphecy() {
   return (
     <div className="SeptProphecy">
          <div>
-            <h1 className="SeptHeader">SEPTEMBER PROPHECIES</h1>
+            <h1 className="SeptHeader">SEPTEMBER MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

@@ -17,7 +17,7 @@ export default function JanProphecy() {
   return (
     <div className="JanProphecy">
          <div>
-            <h1 className="JanHeader">JANUARY PROPHECIES</h1>
+            <h1 className="JanHeader">JANUARY MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

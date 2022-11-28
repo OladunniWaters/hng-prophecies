@@ -17,7 +17,7 @@ export default function AprProphecy() {
   return (
     <div className="FebProphecy">
          <div>
-            <h1 className="FebHeader">FEBRUARY PROPHECIES</h1>
+            <h1 className="FebHeader">FEBRUARY MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

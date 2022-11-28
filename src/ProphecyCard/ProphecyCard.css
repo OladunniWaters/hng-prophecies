@@ -3,13 +3,13 @@
 .ProphecyCard {
   width: 300px;
   height: 350px;
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 20px;
   margin: auto;
   background: #fff;
--webkit-box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
--moz-box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
-box-shadow: -12px 11px 5px -3px rgba(46,53,84,1);
+-webkit-box-shadow: -8px 5px 5px -3px rgba(53,53,70,1);
+-moz-box-shadow: -8px 5px 5px -3px rgba(53,53,70,1);
+box-shadow: -8px 10px 5px -3px rgba(53,53,70,1);
 }
 
 .CardInfo {

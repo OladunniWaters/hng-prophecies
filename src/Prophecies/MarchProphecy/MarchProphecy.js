@@ -17,7 +17,7 @@ export default function MarchProphecy() {
   return (
     <div className="MarchProphecy">
          <div>
-            <h1 className="MarchHeader">AUGUST PROPHECIES</h1>
+            <h1 className="MarchHeader">MARCH MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

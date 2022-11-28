@@ -17,7 +17,7 @@ export default function DecProphecy() {
   return (
     <div className="DecProphecy">
          <div>
-            <h1 className="DecHeader">DECEMBER PROPHECIES</h1>
+            <h1 className="DecHeader">DECEMBER MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

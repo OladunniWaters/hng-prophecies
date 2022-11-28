@@ -17,7 +17,7 @@ export default function MayProphecy() {
   return (
     <div className="MayProphecy">
          <div>
-            <h1 className="MayHeader">MAY PROPHECIES</h1>
+            <h1 className="MayHeader">MAY MESSAGE</h1>
          </div>
          
          <div data-aos="zoom-in" className="cards">

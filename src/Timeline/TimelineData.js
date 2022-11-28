@@ -1,8 +1,8 @@
 const TimelineData = [
   {
     id:1,
-    month:"January Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"January Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/januaryProphecy',
@@ -11,8 +11,8 @@ const TimelineData = [
   },
    {
     id:2,
-    month:"February Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"February Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/februaryProphecy',
@@ -21,8 +21,8 @@ const TimelineData = [
   },
    {
     id:3,
-    month:"March Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"March Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/marchProphecy',
@@ -31,8 +31,8 @@ const TimelineData = [
   },
    {
     id:4,
-    month:"April Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"April Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/aprilProphecy',
@@ -41,8 +41,8 @@ const TimelineData = [
   },
    {
     id:5,
-    month:"May Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"May Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/mayProphecy',
@@ -51,8 +51,8 @@ const TimelineData = [
   },
    {
     id:6,
-    month:"June Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"June Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/juneProphecy',
@@ -61,8 +61,8 @@ const TimelineData = [
   },
    {
     id:7,
-    month:"July Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"July Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/julyProphecy',
@@ -71,8 +71,8 @@ const TimelineData = [
   },
    {
     id:8,
-    month:"August Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"August Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/augustProphecy',
@@ -81,8 +81,8 @@ const TimelineData = [
   },
    {
     id:9,
-    month:"September Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"September Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/septemberProphecy',
@@ -91,8 +91,8 @@ const TimelineData = [
   },
    {
     id:10,
-    month:"October Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"October Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/octoberProphecy',
@@ -101,8 +101,8 @@ const TimelineData = [
   },
   {
     id:11,
-    month:"November Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"November Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/novemberProphecy',
@@ -111,8 +111,8 @@ const TimelineData = [
   },
    {
     id:12,
-    month:"December Prophecies",
-    message:"God speaks to us individually, but He also speaks to His children  collectively through His prophets. Click on the button below to view Prophecies of the month by various prophets of God",
+    month:"December Message",
+    message:"Listen to word spoken to these Men Of God directly.",
     link: {
             url:
                 '/decemberProphecy',
